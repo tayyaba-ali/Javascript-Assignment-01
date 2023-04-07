@@ -1,17 +1,17 @@
 // Question # 01
 
-// let num1 = +prompt("Enter first number to be compared");
-// let num2 = +prompt("Enter second number to be compared");
+let num1 = +prompt("Enter first number to be compared");
+let num2 = +prompt("Enter second number to be compared");
 
-// if (num1 > num2) {
-//     console.log("The greater number is: " + num1)
-// }
-// else if (num2 > num1) {
-//     console.log("The greater number is: " +num2);
-// }
-// else {
-//     console.log(`${num1} and ${num2} both are equal`);
-// }
+if (num1 > num2) {
+    console.log(`The greater number is: ${num1}`)
+}
+else if (num2 > num1) {
+    console.log(`The greater number is: ${num2}`);
+}
+else {
+    console.log(`${num1} and ${num2} both are equal`);
+}
 
 // Question # 02
 
@@ -99,18 +99,21 @@
 
 // Question # 06
 
-// for (let i = 1; i <= 100; i++){
-//     if (i % 3 === 0 && i % 5 === 0 ) {
-//         console.log('FizzBuzz');
-//     }
-//     else if (i % 3 === 0) {
-//         console.log("Fizz");
-//     }
-//     else if (i % 5===0) {
-// 			console.log('Buzz');
-// 		}
+//  for (let i = 1; i <= 100; i++){
+//      if (i % 3 === 0 && i % 5 === 0) {
+//          console.log('FizzBuzz');
+//      }
+//      else if (i % 3 === 0) {
+//          console.log("Fizz");
+//      }
+//      else if (i % 5 === 0) {
+//          console.log('Buzz');
+//      }
+//      else {
+//          console.log(i)
+//      }
 
-// }
+//  }
 
 // Question # 07
 
