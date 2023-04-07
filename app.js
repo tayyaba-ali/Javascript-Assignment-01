@@ -94,7 +94,7 @@
 // 		break;
 // }
 
-// console.log(`Average marks: ${averageMarks.toFixed(2)}\nGrade: ${grade}`);
+// document.write(`Average marks: ${averageMarks.toFixed(2)}\nGrade: ${grade}`);
 
 
 // Question # 06
