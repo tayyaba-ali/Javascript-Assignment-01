@@ -14,7 +14,7 @@
 // (userNum >= 0) ? alert('The sign is +') : alert('The sign is -');
 
 
-// Question 3
+// Question # 03
 
 // let numbers = [];
 
