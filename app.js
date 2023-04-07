@@ -17,7 +17,7 @@
 
 // let userNum = +prompt("Enter the number")
 
-// if (userNum > 0) {
+// if (userNum >= 0) {
 //     alert("The sign is +")
 // }
 // else {
